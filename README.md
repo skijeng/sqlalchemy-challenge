@@ -1,6 +1,6 @@
 # sqlalchemy-challenge
 
-The jupityr notebook file for this project is found in the resources folder, called "climate_starter" contains the analysis and flask sections of this project. In addition to class materials, I used the following sources for code support:
+The jupityr notebook file for this project is found in the code resources folder, called "climate_starter" contains the analysis and flask sections of this project. In addition to class materials, I used the following sources for code support:
 
 https://stackoverflow.com/questions/930397/how-do-i-get-the-last-element-of-a-list
 https://stackoverflow.com/questions/72325242/type-object-base-has-no-attribute-decl-class-registry
